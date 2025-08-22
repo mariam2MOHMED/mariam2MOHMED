@@ -23,17 +23,12 @@ I am Cuurrently working as a Flutter instructor
 <h2>Links</h2>
 <div class="sep"></div>
 <ul>
-<li><a href="https://github.com/MariamDev" target="_blank" rel="noreferrer">GitHub Profile</a></li>
-<li><a href="https://linkedin.com/in/mariamdev" target="_blank" rel="noreferrer">LinkedIn</a></li>
+<li><a href="https://github.com/mariam2MOHMED" target="_blank" rel="noreferrer">GitHub Profile</a></li>
+<li><a href="https://www.linkedin.com/in/mariam-abdallah-709862248/" target="_blank" rel="noreferrer">LinkedIn</a></li>
 <li><span class="muted">Add portfolio / app store links here</span></li>
 </ul>
 </section>
 
-
-#### Awards and Achievements
-- Won the 1st edition of [GitHub India Open Source Grants](https://github.blog/2021-09-12-recipients-open-source-grants-github-sponsors-india/)
-- Worked as [DuckDuckGo Community Leader](https://web.archive.org/web/20210727164606/https://help.duckduckgo.com/community/community-leaders/) and Maintainer
-- Won 1st place in Several Hackathons and events
   
 <details>
  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
