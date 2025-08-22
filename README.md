@@ -1,13 +1,13 @@
 <h2 align="center">👋 Hello! I'm Mariam Mohmed</h2>
 
-------------------------------------
+
 🔹 Summary
 ------------------------------------
-Flutter Developer with 1 year of experience in building efficient, scalable mobile applications.
+- Flutter Developer with 1 year of experience in building efficient, scalable mobile applications.
 Passionate about problem solving, clean architecture, and delivering impactful user experiences.
-I am Cuurrently working as a Flutter instructor 
+- I am Cuurrently working as a Flutter instructor 
 
-------------------------------------
+
 🔹 Skills
 ------------------------------------
 - Languages: Dart, Java, Python, JavaScript, HTML, CSS
@@ -25,7 +25,6 @@ I am Cuurrently working as a Flutter instructor
 <ul>
 <li><a href="https://github.com/mariam2MOHMED" target="_blank" rel="noreferrer">GitHub Profile</a></li>
 <li><a href="https://www.linkedin.com/in/mariam-abdallah-709862248/" target="_blank" rel="noreferrer">LinkedIn</a></li>
-<li><span class="muted">Add portfolio / app store links here</span></li>
 </ul>
 </section>
 
