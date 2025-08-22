@@ -1,6 +1,4 @@
 <h2 align="center">👋 Hello! I'm Mariam Mohmed</h2>
-
-
 🔹 Summary
 ------------------------------------
 - Flutter Developer with 1 year of experience in building efficient, scalable mobile applications.
@@ -78,8 +76,6 @@ Passionate about problem solving, clean architecture, and delivering impactful u
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
 </p>
-
-
 </details>
 
 
@@ -87,7 +83,6 @@ Passionate about problem solving, clean architecture, and delivering impactful u
 </details>
 
 <details>
-  <summary><b>🔒&nbsp;&nbsp;PGP&nbsp;Public&nbsp;Key</b></summary>
-  <br/>
+
 
 
