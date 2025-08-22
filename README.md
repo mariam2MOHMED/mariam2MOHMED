@@ -1,9 +1,12 @@
 <h2 align="center">👋 Hello! I'm Mariam Mohmed</h2>
+
+
 🔹 Summary
 ------------------------------------
-- Flutter Developer with 1 year of experience in building efficient, scalable mobile applications.
+Flutter Developer with 1 year of experience in building efficient, scalable mobile applications.
 Passionate about problem solving, clean architecture, and delivering impactful user experiences.
-- I am Cuurrently working as a Flutter instructor 
+
+I am Cuurrently working as a Flutter instructor 
 
 
 🔹 Skills
@@ -79,8 +82,6 @@ Passionate about problem solving, clean architecture, and delivering impactful u
 </details>
 
 
-
-</details>
 
 <details>
 
