@@ -2,7 +2,7 @@
 
 
 🔹 Summary
-------------------------------------
+
 Flutter Developer with 1 year of experience in building efficient, scalable mobile applications.
 Passionate about problem solving, clean architecture, and delivering impactful user experiences.
 
@@ -79,7 +79,6 @@ I am Cuurrently working as a Flutter instructor
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
 </p>
-</details>
 
 
 
